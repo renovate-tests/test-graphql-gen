@@ -5,6 +5,7 @@
     "graphql-codegen-typescript-client": "^0.17.0"
   },
   "renovate": {
-    "extends": ["config:base"]
+    "extends": ["config:base"],
+    "rangeStrategy": "replace"
   }
 }
