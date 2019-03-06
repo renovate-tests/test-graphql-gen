@@ -1,8 +1,8 @@
 {
   "dependencies": {
-    "graphql-code-generator": "^0.17.0",
-    "graphql-codegen-add": "^0.17.0",
-    "graphql-codegen-typescript-client": "^0.17.0"
+    "graphql-code-generator": "^0.18.0",
+    "graphql-codegen-add": "^0.18.0",
+    "graphql-codegen-typescript-client": "^0.18.0"
   },
   "renovate": {
     "extends": ["config:base"],
