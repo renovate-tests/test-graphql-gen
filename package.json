@@ -6,6 +6,7 @@
   },
   "renovate": {
     "extends": ["config:base"],
+    "prHourlyLimit": 0,
     "rangeStrategy": "replace"
   }
 }
